@@ -1,1 +1,1 @@
-The main file you should open is "Thing.html".
+
